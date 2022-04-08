@@ -52,7 +52,7 @@ import {
 
   useEffect(() => {
     fetchHistoricData();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
+
     //console.log(id)
   }, [currency,days]);
 

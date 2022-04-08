@@ -28,13 +28,6 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "plugins": [
-      "react-hooks"
-    ],
-    "rules": {
-      "react-hooks/rules-of-hooks": "error",
-      "react-hooks/exhaustive-deps": "off"
-    },
     "extends": [
       "react-app",
       "react-app/jest"
@@ -53,6 +46,6 @@
     ]
   },
   "devDependencies": {
-    "eslint-plugin-react-hooks": "^4.5.0-next-057915477-20220407"
+    "eslint-plugin-react-hooks": "^4.4.0"
   }
 }
