@@ -32,7 +32,7 @@ import {
 
 
 
-  const CoinInfo = () => {
+  const CoinInfo = (props) => {
 
   const [historicData, setHistoricData] = useState();
   const [days, setDays] = useState(1);
@@ -52,7 +52,7 @@ import {
 
   useEffect(() => {
     fetchHistoricData();
-    
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     //console.log(id)
   }, [currency,days]);
 
