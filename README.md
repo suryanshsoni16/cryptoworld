@@ -1,3 +1,8 @@
+# Technology Used 
+This project is made using ReactJS, Firebase, Material-ui, and many other library such as chartjs , alice-carusal etc
+# Hosted Link
+hosted on netlify
+[click here](https://62502187431f2573cc43dea0--tranquil-mandazi-b7672d.netlify.app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
