@@ -30,6 +30,14 @@ Crypto World provides real-time information about various cryptocurrencies, leve
    - Employs Chart.js to display historical data of selected cryptocurrencies.
    - Users can analyze and compare cryptocurrency performance over time through interactive charts.
 
+## Tech Stack
+
+- ReactJS
+- CoinGecko API
+- Google Firebase
+- Chart.js
+- Netlify (for hosting)
+
 ## Live Demo
 
 Check out the live demo: [Crypto World Dashboard](https://62502187431f2573cc43dea0--tranquil-mandazi-b7672d.netlify.app/)
